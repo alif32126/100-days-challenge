@@ -16,9 +16,6 @@
   gap: 0px 15px; /* 20px between rows, 10px between columns */
 }
 
-
-
-
 .div1{
   display: flex;
   justify-content:space-around ;
